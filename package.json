@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/MathieuPoinsot/ELIZA#readme",
   "dependencies": {
+    "discord-prefix": "^2.0.0",
     "discord.js": "^12.5.3"
-  }
+  },
+  "devDependencies": {}
 }
